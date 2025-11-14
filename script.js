@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- CONFIGURAÇÃO ---
     const API_KEYS = {
-        GEMINI: "AIzaSyAKpm4N8yVqHwjhwdP9AKMJ9U1s2P3cKA8"
+        GEMINI: "AIzaSyBga1AFoyuP9R6DPEQHef3uFM7FUSlzkDY"
     };
 
     // Lógica para carregar a preferência do tema
@@ -461,3 +461,4 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
